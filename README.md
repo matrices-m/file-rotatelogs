@@ -60,7 +60,7 @@ such as `github.com/lestrrat-go/apache-logformat`.
 ```go
 import(
   "log"
-  "github.com/lestrrat-go/file-rotatelogs"
+  "github.com/matrix-m/file-rotatelogs"
 )
   
 func main() {
